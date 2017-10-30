@@ -4,7 +4,6 @@ import com.zmitser.reactive.backend.domain.Movie
 import com.zmitser.reactive.backend.repositories.MovieRepository
 import org.springframework.boot.CommandLineRunner
 import org.springframework.stereotype.Component
-import reactor.core.publisher.Flux
 import reactor.core.publisher.toFlux
 import java.util.*
 
