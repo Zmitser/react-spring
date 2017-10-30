@@ -1,4 +1,4 @@
-package com.zmitserkoskinen.webapp.backend
+package com.zmitser.reactive.backend
 
 import org.junit.Test
 import org.junit.runner.RunWith
